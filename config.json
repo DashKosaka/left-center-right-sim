@@ -1,0 +1,12 @@
+{
+    "simulations": 1000000,
+
+    "players": 10,
+    "dice": 3,
+    "coins": 4,
+
+    "keep_weight": 3,
+    "center_weight": 1,
+    "left_weight": 1,
+    "right_weight": 1
+}
